@@ -1,0 +1,26 @@
+*{
+    margin: auto;
+    padding: none;
+}
+
+header{
+    height: 100px;
+}
+
+.logo{
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    text-decoration: none;
+    color: #fee6c6;
+    padding: 80px;
+    
+}
+
+.inicio{
+    background-color: #fee6c6;
+    height: 1250px;
+    background-image: url(./img/fondo.jpg);
+    background-position: center;
+    opacity: -20px;
+}
